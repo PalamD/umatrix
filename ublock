@@ -5,14 +5,11 @@
 0.0.0.0 ggpht.com/* 
 0.0.0.0 google.mn/* 
 0.0.0.0 google.com/*
-0.0.0.0 youtube.com/*
 0.0.0.0 gstatic.com/*
 0.0.0.0 doubleclick.net/*
 0.0.0.0 googlecommerce.com/*
-0.0.0.0 ajax.googleapis.com/*
 0.0.0.0 fonts.googleapis.com/*
 0.0.0.0 google-analytics.com/* 
-0.0.0.0 googleusercontent.com/*
 0.0.0.0 googlesyndication.com/*
 #
 # Ubiquitous
@@ -26,16 +23,9 @@
 0.0.0.0 vkontakte.ru/*
 0.0.0.0 disqus.com/* 
 0.0.0.0 disquscdn.com/* 
-0.0.0.0 yandex.st/*
-0.0.0.0 yastatic.net/*
 0.0.0.0 twimg.com/*
 0.0.0.0 twitter.com/* 
-0.0.0.0 cloudflare.com/*
-0.0.0.0 cloudfront.net/*
 0.0.0.0 amazonaws.com/*
-0.0.0.0 jquery.com/*
-0.0.0.0 jsdelivr.net/*
-0.0.0.0 bootstrapcdn.com/* 
 0.0.0.0 gravatar.com/*
 0.0.0.0 apple.com/*
 0.0.0.0 pinterest.com/* 
