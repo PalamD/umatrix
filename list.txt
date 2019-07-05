@@ -252,3 +252,5 @@
 0.0.0.0 aftershock.news
 0.0.0.0 begantume.info
 0.0.0.0 actionbutton.co 
+0.0.0.0 tafimedia.com 
+0.0.0.0 kornavals.info
