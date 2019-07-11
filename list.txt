@@ -104,6 +104,7 @@
 0.0.0.0 guecumb.com
 0.0.0.0 kaupawl.com
 #
+0.0.0.0 adobe.com 
 0.0.0.0 adobedtm.com 
 0.0.0.0 servebom.com 
 0.0.0.0 creativecommons.org 
